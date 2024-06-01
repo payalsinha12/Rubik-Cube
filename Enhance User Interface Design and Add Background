@@ -1,0 +1,4 @@
+To change the background color and ensure responsiveness, we'll update the HTML and CSS code. 
+HTML Structure: We have a separate div element with the class ui__background for the background. This div will cover the entire viewport and serve as the background layer.
+CSS Styles: In the CSS file, we set the background color of .ui__background to the desired color (#f0f0f0 in this example). Adjust the color code to your preference.
+Responsive Design: This setup will automatically make the background responsive since it covers the entire viewport. You can further adjust the CSS to handle specific responsiveness requirements.
